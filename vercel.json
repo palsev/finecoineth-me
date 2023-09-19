@@ -1,7 +1,7 @@
 {
     "redirects": [
       { "source": "/fine", "destination": "/fine.html", "permanent": false },
-      { "source": "/home", "destination": "/home.html", "permanent": false },
+      { "source": "/Home", "destination": "/home.html", "permanent": false },
       { "source": "/", "destination": "/index.html", "permanent": false }
     ]
   }
